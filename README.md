@@ -61,7 +61,7 @@
   </ol>
 </details>
 
-,
+
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre
@@ -86,7 +86,7 @@ Todas as contribuições são não apenas bem-vindas como também incentivadas. 
 
 1. Faça um Fork
 2. Crie e commite suas contribuições num Feature Branch (`git checkout -b feature/AmazingFeature` e `git commit -m 'Add some AmazingFeature'`)
-3. Push para oBranch (`git push origin feature/AmazingFeature`)
+3. Push para o Branch (`git push origin feature/AmazingFeature`)
 4. Abra uma Pull Request e considere nossos agradecimentos
 
 
